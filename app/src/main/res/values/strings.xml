@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CodePath Android Prework</string>
+    <string name="crislana_intro">My name is Crislana. I\'m excited about Android Development and I like cows!</string>
+    <string name="button_text">Moo</string>
+</resources>
